@@ -152,6 +152,11 @@ public class SunTimes {
         CIVIL(-6.0),
 
         /**
+         * Dawn dusk (-7°21′40″).
+         */
+        DAWN_DUSK(-7.214),
+
+        /**
          * Nautical twilight (-12°).
          */
         NAUTICAL(-12.0),
